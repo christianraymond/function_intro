@@ -1,5 +1,5 @@
 var theFunction = function(){
-  console.log('This is the function executin');
+  console.log('This is the function executing');
 }
 //To execute the function
 console.log(theFunction);
